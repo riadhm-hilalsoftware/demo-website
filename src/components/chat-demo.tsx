@@ -14,7 +14,7 @@ export default function ChatWidget() {
       window.ChatWidget.renderChatComponent(
         "chat-widget",
         "9f8a5c5d-4e13-4122-b75d-d9e288b65e21",
-        "f368590f-ddc5-4040-9758-5744803f81bc"
+        "952fc349-a37b-43be-8a1b-ed469e396a30"
       );
     }
   };
